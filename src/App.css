@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  margin: auto;
+  width: 75%;
+}
+/* .col{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+} */
+.userDefind{
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  padding: 20px;
+  margin: 20px;
+}
+.text{
+  padding-left: 20px;
+}
